@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/WORK/PYTHON/mlflow/mlruns/0/c5b1329d51704e8fb0387fdda9214add/artifacts
+end_time: 1716206212142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b1329d51704e8fb0387fdda9214add
+run_name: intelligent-goat-771
+run_uuid: c5b1329d51704e8fb0387fdda9214add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716206212109
+status: 3
+tags: []
+user_id: chinm

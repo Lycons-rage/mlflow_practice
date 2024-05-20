@@ -1,0 +1,7 @@
+mlflow
+setuptools
+dvc
+pandas
+numpy
+os
+scikit-learn
